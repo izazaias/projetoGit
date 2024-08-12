@@ -1,6 +1,6 @@
 Criando um repositório no github:
 
-####crie um novo repositório na linha de comando####
+crie um novo repositório na linha de comando
 
 echo "# projetoGit" >> README.md 
 git init 
@@ -10,7 +10,7 @@ git branch -M main
 git remote add origin https://github.com/izazaias/projetoGit.git
 git push -u origin main
 
-###envie um repositório existente a partir da linha de comando###
+envie um repositório existente a partir da linha de comando
 
 git remote add origin https://github.com/izazaias/projetoGit.git
 git branch -M main
