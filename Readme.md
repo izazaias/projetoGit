@@ -1,6 +1,6 @@
 ## Criando um repositório no github:
 
-crie um novo repositório na linha de comando
+_**Crie um novo repositório na linha de comando**_
 
 * git init 
 * git add .
@@ -9,7 +9,7 @@ crie um novo repositório na linha de comando
 * git remote add origin <seu_repositorio>
 * git push -u origin main
 
-envie um repositório existente a partir da linha de comando
+_**Envie um repositório existente a partir da linha de comando**_
 
 * git remote add origin <seu_repositorio>
 * git branch -M main
