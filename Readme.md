@@ -1,8 +1,7 @@
-Criando um repositório no github:
+**Criando um repositório no github:**
 
 crie um novo repositório na linha de comando
 
-echo "# projetoGit" >> README.md 
 git init 
 git add README.md 
 git commit -m "primeiro commit" 
