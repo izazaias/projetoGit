@@ -3,7 +3,7 @@
 crie um novo repositório na linha de comando
 
 git init 
-git add README.md 
+git add .
 git commit -m "primeiro commit" 
 git branch -M main 
 git remote add origin <seu_repositorio>
